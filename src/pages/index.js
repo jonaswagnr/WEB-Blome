@@ -3,7 +3,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import heroimg from "../images/heroimg.jpg";
+import heroimg from "../images/heroimg2.jpg";
 import Textflip from "../components/textflip";
 
 import pic02 from "../images/favs/img_1682.jpg";
@@ -11,7 +11,7 @@ import pic03 from "../images/favs/img_1683.jpg";
 import pic01 from "../images/favs/img_1692.jpg";
 import pic04 from "../images/favs/img_3418.jpg";
 import pic05 from "../images/favs/img_9718.jpg";
-import menuekarte from "../images/menuekarte.png";
+import menuekarte from "../images/menuekarte.jpg";
 
 import menuekartePDF from "../images/menuekarte.pdf";
 
