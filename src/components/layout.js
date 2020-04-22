@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
         expires={150}
       >
         Unsere Seite benutzt Cookies.
-        <Link class="btn-link ml-4" to="/privacy-policy">
+        <Link class="btn-link ml-4" to="/Datenschutz">
           Erfahre mehr
         </Link>
       </CookieConsent>

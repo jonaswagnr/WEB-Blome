@@ -17,7 +17,6 @@ import menuekartePDF from "../images/menuekarte.pdf";
 
 
 import Veranstaltungen from "../images/Veranstaltungen.svg";
-import barFRONT from "../images/barfront.jpg";
 import BlomeFront from "../images/blomeVorne.jpg";
 
 import Geburtstage from "../images/Birthday.svg";
