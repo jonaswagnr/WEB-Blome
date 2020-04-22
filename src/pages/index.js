@@ -25,16 +25,16 @@ import Gutscheine from "../images/Gutscheine.svg";
 
 import e1 from "../images/eindruecke1.jpg"
 import e2 from "../images/eindruecke2.jpg"
-import e3 from "../images/e3.jpg"
-import e4 from "../images/e4.jpg"
-import e5 from "../images/e5.jpg"
-import e6 from "../images/e6.jpg"
-import e7 from "../images/e7.jpg"
-import e8 from "../images/e8.jpg"
-import e9 from "../images/e9.jpg"
-import e10 from "../images/e10.jpg"
-import e11 from "../images/e11.jpg"
-import e12 from "../images/e12.jpg"
+import e3 from "../images/eindruecke3.jpg"
+import e4 from "../images/eindruecke4.jpg"
+import e5 from "../images/eindruecke5.jpg"
+import e6 from "../images/eindruecke6.jpg"
+import e7 from "../images/eindruecke7.jpg"
+import e8 from "../images/eindruecke8.jpg"
+import e9 from "../images/eindruecke9.jpg"
+import e10 from "../images/eindruecke10.jpg"
+import e11 from "../images/eindruecke11.jpg"
+import e12 from "../images/eindruecke12.jpg"
 
 
 const IndexPage = () => (
