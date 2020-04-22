@@ -23,8 +23,8 @@ import Geburtstage from "../images/Birthday.svg";
 
 import Gutscheine from "../images/Gutscheine.svg";
 
-import e1 from "../images/e1.jpg"
-import e2 from "../images/e2.jpg"
+import e1 from "../images/eindruecke1.jpg"
+import e2 from "../images/eindruecke2.jpg"
 import e3 from "../images/e3.jpg"
 import e4 from "../images/e4.jpg"
 import e5 from "../images/e5.jpg"
