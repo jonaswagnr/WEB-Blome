@@ -3,7 +3,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import heroimg from "../images/März 2016 042.jpg";
+import heroimg from "../images/heroimg.jpg";
 import Textflip from "../components/textflip";
 
 import pic02 from "../images/favs/img_1682.jpg";
