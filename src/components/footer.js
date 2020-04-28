@@ -1,6 +1,8 @@
 import { Link } from "gatsby";
 import React from "react";
 import FullLogo from "../images/blome-logo.svg";
+import fbicon from "../images/facebook-square-brands.svg"
+import igicon from "../images/instagram-brands.svg"
 
 const Footer = () => (
   <footer class="py-4">
@@ -11,15 +13,9 @@ const Footer = () => (
             <img class="FullLogo" src={FullLogo} alt="edy-logo" />
           </Link>
 
-          {/* <p>
-                Let's get you connected! We've designed a simple, efficient
-                process for companies migrating to PiperNet. Here's how it
-                works.
-              </p> */}
           <ul class="list-inline d-flex mb-3 justify-content-center justify-content-lg-start">
-            {/* <li class="px-2"><a href="#"><img src="placeholder/icons/twitter.svg" alt=""></a></li>
-                <li class="px-2"><a href="#"><img src="placeholder/icons/facebook-official.svg" alt=""></a></li>
-                <li class="px-2"><a href="#"><img src="placeholder/icons/instagram.svg" alt=""></a></li> */}
+           <li class="px-2"><a href="https://www.facebook.com/Hotel-Rastst%C3%A4tte-Blome-174261179368578/"><img class="smicon" src={fbicon} alt=""/></a></li>
+           <li class="px-2"><a href="https://www.instagram.com/raststaetteblome/"><img class="smicon" src={igicon} alt=""/></a></li>
           </ul>
         </div>
         <div>

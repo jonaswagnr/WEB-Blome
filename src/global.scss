@@ -97,6 +97,12 @@ p {
   box-shadow: 0 20px 40px -20px rgba(15, 18, 63, 0.4);
 }
 
+.smicon {
+  width: 25px;
+  padding-top: 20px;
+  opacity: 80%;
+}
+
 .btn:hover, .btn-primary:hover {
   color: #fff;
   font-family: $afont;

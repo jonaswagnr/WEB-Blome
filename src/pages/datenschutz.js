@@ -30,7 +30,7 @@ export default class Datenschutz extends React.Component {
 
 
 <h2 class="mt-2em">Verantwortlicher</h2>
-Raststätte Blome <br></br>
+Hermann Blome GmbH<br></br>
 Bundesstraße 192<br></br>
 26892 Dörpen<br></br>
 

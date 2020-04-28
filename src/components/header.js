@@ -13,7 +13,7 @@ export default class Header extends React.Component {
       <header>
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg navbar-light text-center mx-auto">
-            <a class="navbar-brand col-4 pl-0 mr-0" href="/">
+            <a class="navbar-brand col-4 pl-0 mr-0 text-left" href="/">
               <img class="logo-header" src={Logo} alt=""/>
             </a>
             <button
